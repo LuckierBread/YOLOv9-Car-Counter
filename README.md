@@ -16,4 +16,4 @@ Click the Google Colab badge to get redirected to the Colab implementation.
 
 Run the notebook by clicking the play buttons on each code chunk, making sure you run them from top to bottom.
 when the final code section is done, open the "files" folder on the left side of the screen.
-Navigate to the "YOLOv9_Car_Counter" folder and download output.avi this will output the processed video
+Navigate to the "YOLOv9_Car_Counter" folder and download output.avi this will output the processed video.
