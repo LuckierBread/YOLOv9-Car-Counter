@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/LuckierBread/YOLOv9-Car-Counter)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuckierBread/YOLOv9-Car-Counter]
 
 **into**
 
@@ -8,5 +8,5 @@ This YOLO model was trained on the MS COCO dataset and can identify several obje
 We will also use object tracking to keep track of which vehicles are traveling in which direction.
 
 **problem data**
-This project will be using traffic camera data 
-
+Webcam data was used as the input for this project.
+each frame was (384,640,3) with each number representing height width and number of color channels respectively. 
